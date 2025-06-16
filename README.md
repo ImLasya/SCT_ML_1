@@ -68,9 +68,4 @@ All plots are saved as `.png` files automatically:
 
 ---
 
-## 🚀 How to Run
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/house-price-prediction-task1.git
-cd house-price-prediction-task1
